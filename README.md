@@ -2,7 +2,7 @@
 
 Behringer has released a line of very affordable pedals that mimic the sound, functionality and packaging of often expensive and rare to find classic guitar pedals.
 
-Images are taken from the manufacturers websites. Looking into expand the list with more clone guitar pedals (not only for Behringer).
+Looking into expand the list with more clone guitar pedals (besides Behringer). Images are taken from the manufacturers websites. 
 
 |   |  Behringer model                   |                              | Based on
 | - | ---------------------------------- | ---------------------------- | - |
