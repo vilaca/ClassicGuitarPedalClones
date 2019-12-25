@@ -2,11 +2,11 @@
 
 Behringer has released a line of very affordable pedals that mimic the sound, functionality and packaging of often expensive and rare to find classic guitar pedals.
 
-Looking into expand the list with more clone guitar pedals (besides Behringer). Images are taken from the manufacturers websites. 
+Looking into expand the list with more clone guitar pedals (besides Behringer). Images are taken from the manufacturers websites.
 
 |   |  Behringer model                   |                              | Based on
 | - | ---------------------------------- | ---------------------------- | - |
-| <img src=media/BO100.png  width="100">   | Blues Overdrive BO100      | <img src=media/BD-2.png  width="100"> | Boss Blues Driver BD-2
+| <img src=media/BO100.png  width="100">   | Blues Overdrive BO100      | <img src=media/BD-2.jpg  width="100"> | Boss Blues Driver BD-2
 | <img src=media/CL9.png  width="100">   | Compressor/Limiter CL9       | <img src=media/CP9.jpg  width="100"> | Ibanez Compressor/Limiter CP9
 | <img src=media/CS400.png  width="100"> | Compressor Sustainer CS400   | <img src=media/CS-3.jpg  width="100"> | Boss Compressor Sustainer CS-3
 | <img src=media/DD400.png  width="100"> | Digital Delay DD400          | <img src=media/DD-3.jpg  width="100"> | Boss Digital Delay DD-3
@@ -15,7 +15,7 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/FM600.png  width="100"> | Filter Machine FM600         | <img src=media/OTTO.jpg  width="100"> | Line6 Otto Filter
 | <img src=media/EQ700.png  width="100"> | Graphic Equalizer EQ700      | <img src=media/GE-7.jpg  width="100"> | Boss Equalizer GE-7
 | <img src=media/HM300.png  width="100"> | Heavy Metal HM300            | <img src=media/HM-2.png  width="100"> | Boss Heavy Metal HM-2
-| <img src=media/OD400.png  width="100"> | Overdrive OD400              | <img src=media/OD-3.png  width="100"> | Boss Overdrive OD-3
+| <img src=media/OD400.png  width="100"> | Overdrive OD400              | <img src=media/OD-3.jpg  width="100"> | Boss Overdrive OD-3
 | <img src=media/NR300.png  width="100"> | Noise Reducer NR300          | <img src=media/NS-2.jpg  width="100"> | Boss Noise Suppressor NS-2
 | <img src=media/SE200.png  width="100"> | Spectrum Enhancer SE200      | <img src=media/SP-1.png  width="100"> | Boss Spectrum SP-1
 | <img src=media/SF300.png  width="100"> | Super Fuzz SF300             | <img src=media/FZ-2.png  width="100"> | Boss Hyper Fuzz FZ-2
