@@ -19,7 +19,7 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/NR300.png  width="100"> | Noise Reducer NR300          | <img src=media/NS-2.jpg  width="100"> | Boss Noise Suppressor NS-2
 | <img src=media/SE200.png  width="100"> | Spectrum Enhancer SE200      | <img src=media/SP-1.png  width="100"> | Boss Spectrum SP-1
 | <img src=media/SF300.png  width="100"> | Super Fuzz SF300             | <img src=media/FZ-2.png  width="100"> | Boss Hyper Fuzz FZ-2
-| <img src=media/TM300.png  width="100"> | Tube Amp Modeler TM300       | <img src=media/GT2.jpg  width="100"> | SansAmp GT2
+| <img src=media/TM300.png  width="100"> | Tube Amp Modeler TM300       | <img src=media/GT2.png  width="100"> | SansAmp GT2
 | <img src=media/UM300.png  width="100"> | Ultra Metal UM300            | <img src=media/MT-2.jpg  width="100"> | Boss Metal Zone MT-2
 | <img src=media/UO300.png  width="100"> | Ultra Octaver UO300          | <img src=media/OC-2.jpg  width="100"> | Boss Octave OC-2
 | <img src=media/UT300.png  width="100"> | Ultra Tremolo UT300          | <img src=media/TR-2.jpg  width="100"> | Boss Tremolo TR-2
