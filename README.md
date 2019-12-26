@@ -26,7 +26,7 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/UV300.png  width="100"> | Ultra Vibrato UV300          | <img src=media/VB-2.png  width="100"> | Boss Vibrato VB-2<BR>[Used price](https://reverb.grsm.io/VB-2)<BR>*Released in 1982*
 | <img src=media/UC200.png  width="100"> | Ultra Chorus UC200           | <img src=media/CH-1.jpg  width="100"> | Boss Super Chorus CH-1<BR>[Used price](https://reverb.grsm.io/CH-1)<BR>*Released in 1989*
 | <img src=media/VD400.png  width="100"> | Vintage Delay VD400          | <img src=media/DM-3.png  width="100"> | Boss Delay DM-3<BR>[Used price](https://reverb.grsm.io/DM-3)<BR>*Released in 1984*
-| <img src=media/VP1.png  width="100">   | Vintage Phaser VP1           | <img src=media/STONE.png  width="100"> | EHX Small Stone<BR>[Used price](https://reverb.grsm.io/MM)
+| <img src=media/VP1.png  width="100">   | Vintage Phaser VP1           | <img src=media/STONE.png  width="100"> | EHX Small Stone<BR>[Used price](https://reverb.grsm.io/STONE)
 | <img src=media/VM1.png  width="100">   | Vintage Time Machine VM1     | <img src=media/MM.png  width="100">    | EHX Deluxe Memory Man<BR>[Used price](https://reverb.grsm.io/MM)
 | <img src=media/VT999.png  width="100"> | Vintage Tube Monster VT999   | <img src=media/TK999.jpg  width="100"> | Ibanez Tube King TK999<BR>[Used price](https://reverb.grsm.io/TK999)
 | <img src=media/TO800.png  width="100"> | Vintage Tube Overdrive TO800 | <img src=media/TS808.png  width="100"> | Ibanez Tube Screamer TS808<BR>[Used price](https://reverb.grsm.io/TS808)
