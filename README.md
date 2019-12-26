@@ -9,8 +9,8 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/BO100.png  width="100">   | Blues Overdrive BO100      | <img src=media/BD-2.jpg  width="100"> | Boss Blues Driver BD-2
 | <img src=media/CL9.png  width="100">   | Compressor/Limiter CL9       | <img src=media/CP9.jpg  width="100"> | Ibanez Compressor/Limiter CP9
 | <img src=media/CS400.png  width="100"> | Compressor Sustainer CS400   | <img src=media/CS-3.jpg  width="100"> | Boss Compressor Sustainer CS-3
-| <img src=media/DD400.png  width="100"> | Digital Delay DD400          | <img src=media/DD-3.jpg  width="100"> | Boss Digital Delay DD-3
-| <img src=media/DD600.png  width="100"> | Digital Delay DD600          | <img src=media/DD-5.jpg  width="100"> | Boss Digital Delay DD-5
+| <img src=media/DD400.png  width="100"> | Digital Delay DD400          | <img src=media/DD-3.png  width="100"> | Boss Digital Delay DD-3
+| <img src=media/DD600.png  width="100"> | Digital Delay DD600          | <img src=media/DD-5.png  width="100"> | Boss Digital Delay DD-5
 | <img src=media/DR600.png  width="100"> | Digital Reverb DR600         | <img src=media/RV-5.jpg  width="100"> | Boss Digital Reverb RV-5
 | <img src=media/FM600.png  width="100"> | Filter Machine FM600         | <img src=media/OTTO.jpg  width="100"> | Line6 Otto Filter
 | <img src=media/EQ700.png  width="100"> | Graphic Equalizer EQ700      | <img src=media/GE-7.jpg  width="100"> | Boss Equalizer GE-7
