@@ -7,7 +7,7 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 |   |  Behringer model                   |                              | Based on
 | - | ---------------------------------- | ---------------------------- | - |
 | <img src=media/BO100.png  width="100">   | Blues Overdrive BO100      | <img src=media/BD-2.jpg  width="100"> | Boss Blues Driver BD-2<BR>[Used price](https://reverb.grsm.io/BD-2)<BR>*Released in 1995*
-| <img src=media/CL9.png  width="100">   | Compressor/Limiter CL9       | <img src=media/CP9.jpg  width="100"> | Ibanez Compressor/Limiter CP9<BR>[Used price](https://reverb.grsm.io/CP9)
+| <img src=media/CL9.png  width="100">   | Compressor/Limiter CL9       | <img src=media/CP9.jpg  width="100">  | Ibanez Compressor/Limiter CP9<BR>[Used price](https://reverb.grsm.io/CP9)
 | <img src=media/CS400.png  width="100"> | Compressor Sustainer CS400   | <img src=media/CS-3.jpg  width="100"> | Boss Compressor Sustainer CS-3<BR>[Used price](https://reverb.grsm.io/CS-3)<BR>*Released in 1986*
 | <img src=media/DD400.png  width="100"> | Digital Delay DD400          | <img src=media/DD-3.png  width="100"> | Boss Digital Delay DD-3<BR>[Used price](https://reverb.grsm.io/DD-3)<BR>*Released in 1986*
 | <img src=media/DD600.png  width="100"> | Digital Delay DD600          | <img src=media/DD-5.png  width="100"> | Boss Digital Delay DD-5<BR>[Used price](https://reverb.grsm.io/DD-5)<BR>*Released in 1995*
@@ -26,7 +26,8 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/UV300.png  width="100"> | Ultra Vibrato UV300          | <img src=media/VB-2.png  width="100"> | Boss Vibrato VB-2<BR>[Used price](https://reverb.grsm.io/VB-2)<BR>*Released in 1982*
 | <img src=media/UC200.png  width="100"> | Ultra Chorus UC200           | <img src=media/CH-1.jpg  width="100"> | Boss Super Chorus CH-1<BR>[Used price](https://reverb.grsm.io/CH-1)<BR>*Released in 1989*
 | <img src=media/VD400.png  width="100"> | Vintage Delay VD400          | <img src=media/DM-3.png  width="100"> | Boss Delay DM-3<BR>[Used price](https://reverb.grsm.io/DM-3)<BR>*Released in 1984*
-| <img src=media/VM1.png  width="100">   | Vintage Time Machine VM1     | <img src=media/MM.png  width="100"> | electro-harmonix Deluxe Memory Man<BR>[Used price](https://reverb.grsm.io/MM)
+| <img src=media/VP1.png  width="100">   | Vintage Phaser VP1           | <img src=media/STONE.png  width="100"> | EHX Small Stone<BR>[Used price](https://reverb.grsm.io/MM)
+| <img src=media/VM1.png  width="100">   | Vintage Time Machine VM1     | <img src=media/MM.png  width="100">    | EHX Deluxe Memory Man<BR>[Used price](https://reverb.grsm.io/MM)
 | <img src=media/VT999.png  width="100"> | Vintage Tube Monster VT999   | <img src=media/TK999.jpg  width="100"> | Ibanez Tube King TK999<BR>[Used price](https://reverb.grsm.io/TK999)
 | <img src=media/TO800.png  width="100"> | Vintage Tube Overdrive TO800 | <img src=media/TS808.png  width="100"> | Ibanez Tube Screamer TS808<BR>[Used price](https://reverb.grsm.io/TS808)
 | <img src=media/VT911.png  width="100"> | Vintage Tube Overdrive VT911 | <img src=media/TD.jpg  width="100"> | Tube Works Tube Driver<BR>[Used price](https://reverb.grsm.io/TD)
