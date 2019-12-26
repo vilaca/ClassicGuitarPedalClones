@@ -26,7 +26,7 @@ Looking into expand the list with more clone guitar pedals (besides Behringer). 
 | <img src=media/UV300.png  width="100"> | Ultra Vibrato UV300          | <img src=media/VB-2.png  width="100"> | Boss Vibrato VB-2
 | <img src=media/UC200.png  width="100"> | Ultra Chorus UC200           | <img src=media/CH-1.jpg  width="100"> | Boss Super Chorus CH-1
 | <img src=media/VD400.png  width="100"> | Vintage Delay VD400          | <img src=media/DM-3.png  width="100"> | Boss Delay DM-3
-| <img src=media/VM1.png  width="100">   | Vintage Time Machine VM1     | <img src=media/MM.jpg  width="100"> | electro-harmonix Deluxe Memory Man
+| <img src=media/VM1.png  width="100">   | Vintage Time Machine VM1     | <img src=media/MM.png  width="100"> | electro-harmonix Deluxe Memory Man
 | <img src=media/VT999.png  width="100"> | Vintage Tube Monster VT999   | <img src=media/TK999.jpg  width="100"> | Ibanez Tube King TK999
 | <img src=media/TO800.png  width="100"> | Vintage Tube Overdrive TO800 | <img src=media/TS-808.png  width="100"> | Ibanez Tube Screamer TS-808
 | <img src=media/VT911.png  width="100"> | Vintage Tube Overdrive VT911 | <img src=media/TD.jpg  width="100"> | Tube Works Tube Driver
